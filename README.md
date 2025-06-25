@@ -1,20 +1,25 @@
-*Meme Generator
+# Meme Generator
 
 """A Python application to generate memes by combining quote text with images.
 
 This project includes:
 
-Object-Oriented Design using abstract base classes.
-Quote ingestion from multiple file formats (.txt, .csv, .docx, .pdf).
-Meme image creation using the Pillow library.
-A Flask web server to create memes via a web interface.
-Command-line interface (CLI) support with optional arguments.
-PEP8-compliant code and modular architecture. """
-Project Setup
+- Object-Oriented Design using abstract base classes.
+- Quote ingestion from multiple file formats (.txt, .csv, .docx, .pdf).
+- Meme image creation using the Pillow library.
+- A Flask web server to create memes via a web interface.
+- Command-line interface (CLI) support with optional arguments.
+- PEP8-compliant code and modular architecture.
+"""
+
+---
+
+## Project Setup
 
 """Install required dependencies and prepare the environment."""
 
-Clone the repository:
+1. Clone the repository:
+```bash
 git clone https://github.com/Hebah2aziz/meme-generator.git
 cd meme-generator
 Create and activate a virtual environment:
