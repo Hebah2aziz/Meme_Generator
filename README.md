@@ -1,4 +1,4 @@
-Meme Generator
+*Meme Generator
 
 """A Python application to generate memes by combining quote text with images.
 
